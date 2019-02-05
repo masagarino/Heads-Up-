@@ -1,5 +1,7 @@
 
 git branching strategy
+
+
 Distributed version control systems like Git give individuals wide flexibility in how they use version control to share and manage code. Your team should find a balance between this flexibility and the need to collaborate so that you share code in a consistent manner.
 
 Why bother with branching?
